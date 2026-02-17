@@ -19,3 +19,18 @@ Botão de ação (CTA) integrado ao WhatsApp
 Animações suaves para melhor experiência
 Botão de retorno ao topo da página
 Código limpo, organizado e fácil de manter
+
+📱 Contato 
+
+Entre em contato para projetos ou oportunidades:
+WhatsApp: https://wa.me/48996327710
+GitHub: https://github.com/DeividLT051
+
+📄 Licença 
+
+Este projeto é de uso livre para fins educacionais e profissionais.
+
+⭐ Considerações Finais 
+
+A ConvertX representa uma solução prática, moderna e eficiente para quem busca presença digital com foco em resultados.
+
